@@ -1,0 +1,13 @@
+/*!
+
+@file topological_sort.dox
+@author Sofya Sergeeva
+
+@topological_sort Документация алгоритма topological_sort
+
+@sa include/topological_sort.hpp
+@sa include/graph.hpp
+topological_sort - алгоритм топологической сортировки графа.
+На вход подаётся ссылка на объект типа graph::Graph.
+Выход алгоритма это отсортированный список вершин в виде пар (id вершины, value вершины).
+*/

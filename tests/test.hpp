@@ -32,7 +32,8 @@ void TestWeightedOrientedGraph();
 
 /* Сюда нужно добавить объявления тестовых функций. */
 
-
+void TestTopologicalSort(httplib::Client *cli);
+// void TestKunAlgorithm();
 
 /* Конец вставки. */
 

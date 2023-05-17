@@ -14,6 +14,8 @@ namespace graph {
 
 /* Сюда нужно вставить объявление серверной части алгоритма. */
 
+void TopologicalSortMethod(const nlohmann::json& input, nlohmann::json* output);
+
 
 
 /* Конец вставки. */
